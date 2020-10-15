@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src=".github/logo.svg" width="200"/>
+   <img src=".github/logo.svg" width="200" filter="brightness(0.1)"/>
 </p>
 
 
