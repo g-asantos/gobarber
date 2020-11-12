@@ -13,7 +13,7 @@
 
 
 
-### Installation(web)
+### Installation
 
 Get in the project's path , then install the dependencies with:
 
@@ -26,8 +26,6 @@ Start it with:
 ```sh
 yarn start
 ```
-
-### Installation(mobile)
 
 Starting the api:
 
